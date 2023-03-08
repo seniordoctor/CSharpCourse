@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// Interfaces newlenemez, bir class'a birden fazla interface inherit edilebilir, multiple-inheritance destekler.
 namespace Interfaces
 {
     internal class Program
