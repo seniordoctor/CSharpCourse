@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo2", "RecapDemo2\RecapDemo2.csproj", "{04295EB6-3DA1-44E4-89C7-C4042E6BEDE2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{FB64224F-893E-4AFB-A7E9-8B7EA8FF000F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{04295EB6-3DA1-44E4-89C7-C4042E6BEDE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04295EB6-3DA1-44E4-89C7-C4042E6BEDE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04295EB6-3DA1-44E4-89C7-C4042E6BEDE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB64224F-893E-4AFB-A7E9-8B7EA8FF000F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB64224F-893E-4AFB-A7E9-8B7EA8FF000F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB64224F-893E-4AFB-A7E9-8B7EA8FF000F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB64224F-893E-4AFB-A7E9-8B7EA8FF000F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
