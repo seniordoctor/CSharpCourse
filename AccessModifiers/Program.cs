@@ -36,8 +36,13 @@ namespace AccessModifiers
     }
 
     // bir class'in default'u internal'dir.
-    internal class Course
+    public class Course
     {
         public string Name { get; set; }
+
+        private class NestedClass
+        {
+
+        }
     }
 }
