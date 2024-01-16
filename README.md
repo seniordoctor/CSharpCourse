@@ -12,3 +12,8 @@
 - Class
 - Interface, Inheritance
 - Reflection
+- Entity
+- LINQ
+- Reflection
+- Delegates
+- Events and more...
